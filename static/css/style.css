@@ -4,7 +4,7 @@ body {
   text-align: center;
 }
 input[type=text],select {
-  width: 35%;
+  width: 50%;
   background-color: #4b3d8f;
   color: #37a987;
   padding: 12px 20px;
