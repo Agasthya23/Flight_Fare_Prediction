@@ -7,12 +7,8 @@ input[type=text],select {
   width: 50%;
   background-color: #4b3d8f;
   color: #37a987;
-  padding: 12px 20px;
-  margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: border-box;
-  box-sizing: border-box;
+ 
 }
 
 
