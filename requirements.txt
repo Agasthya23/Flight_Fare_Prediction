@@ -17,4 +17,4 @@ pandas>=0.19
 pytz>=2020.1
 virtualenv==20.0.7
 wincertstore==0.2
-
+Django>=2.1.7
