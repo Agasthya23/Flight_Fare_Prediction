@@ -1,12 +1,26 @@
 # Flight_Fare_Prediction
+
+## Table of Content
+  * [Overview](#overview)
+  * [Codes and Resources Used](#Codes and Resources Used)
+  * [EDA](#EDA)
+  * [Feature Selection] (#Feature Selection)
+  * [Model Selection] (#Model Selection)
+  * [Model Deployment] (#Model Deployment)
+  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Future Scope](#Future Scope)
+ 
+## Overview
 * Built a Flight_Fare_Prediction app that predicts the flight fare tickets that is useful for users while booking flight tickets.
 * Implemented Random forest regressor model to the data and hyper tuned using RandomSearchCV to produce the best result.
 * Also, built an API using Flask.
+* Deployed it on Heroku
 
+Link: [https://flight-fare-prediction-api27.herokuapp.com/](https://flight-fare-prediction-api27.herokuapp.com/)
 
+[![](https://imgur.com/a/EIvsUpA.png)](https://flight-fare-prediction-api27.herokuapp.com/)
 
 ## Codes and Resources Used
-
 
 * Python Version: 3.6
 * Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle
@@ -51,6 +65,12 @@ RMSE of XGBRegressor :  2203.5048540365233
 ## Model Deployment
 * Built a  flask API endpoint that was hosted on a local webserver using Flask.
 * After taking necessary input from the user returns the Flight Price.
+
+## Future Scope
+
+* Use multiple Algorithms
+* Optimize Flask app.py
+* Front-End 
 
 
 
