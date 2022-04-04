@@ -2,13 +2,13 @@
 
 ## Table of Content
   * [Overview](#overview)
-  * [Codes and Resources Used](#Codes and Resources Used)
+  * [Codes and Resources Used](#Codes-and-Resources-Used)
   * [EDA](#EDA)
-  * [Feature Selection] (#Feature Selection)
-  * [Model Selection] (#Model Selection)
-  * [Model Deployment] (#Model Deployment)
+  * [Feature Selection] (#Feature-Selection)
+  * [Model Selection] (#Model-Selection)
+  * [Model Deployment] (#Model-Deployment)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Future Scope](#Future Scope)
+  * [Future Scope](#Future-Scope)
  
 ## Overview
 * Built a Flight_Fare_Prediction app that predicts the flight fare tickets that is useful for users while booking flight tickets.
@@ -18,7 +18,7 @@
 
 Link: [https://flight-fare-prediction-api27.herokuapp.com/](https://flight-fare-prediction-api27.herokuapp.com/)
 
-[![](https://imgur.com/a/EIvsUpA.png)](https://flight-fare-prediction-api27.herokuapp.com/)
+![Front end](https://imgur.com/N5PReqb)
 
 ## Codes and Resources Used
 
