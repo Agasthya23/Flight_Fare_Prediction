@@ -14,6 +14,7 @@
 * Implemented Random forest regressor model to the data and hyper tuned using RandomSearchCV to produce the best result.
 * Also, built an API using Flask.
 * Deployed it on Heroku
+* Built Model on Amazon Sagemaker
 
 Link: [https://flight-fare-prediction-api27.herokuapp.com/](https://flight-fare-prediction-api27.herokuapp.com/)
 
@@ -65,6 +66,7 @@ RMSE of XGBRegressor :  2203.5048540365233
 * Built a  flask API endpoint that was hosted on a local webserver using Flask.
 * Deployed it on Heroku platform.
 * After taking necessary input from the user returns the Flight Price.
+* Also, built and deployed the model using Amazon Sagemaker
 
 ## Future Scope
 
