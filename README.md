@@ -4,10 +4,9 @@
   * [Overview](#overview)
   * [Codes and Resources Used](#Codes-and-Resources-Used)
   * [EDA](#EDA)
-  * [Feature Selection] (#Feature-Selection)
-  * [Model Selection] (#Model-Selection)
-  * [Model Deployment] (#Model-Deployment)
-  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Feature-Selection] (#Feature-Selection)
+  * [Model-Selection] (#Model-Selection)
+  * [Model-Deployment] (#Model-Deployment)
   * [Future Scope](#Future-Scope)
  
 ## Overview
@@ -64,6 +63,7 @@ RMSE of XGBRegressor :  2203.5048540365233
 
 ## Model Deployment
 * Built a  flask API endpoint that was hosted on a local webserver using Flask.
+* Deployed it on Heroku platform.
 * After taking necessary input from the user returns the Flight Price.
 
 ## Future Scope
