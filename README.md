@@ -4,9 +4,9 @@
   * [Overview](#overview)
   * [Codes and Resources Used](#Codes-and-Resources-Used)
   * [EDA](#EDA)
-  * [Feature-Selection] (#Feature-Selection)
-  * [Model-Selection] (#Model-Selection)
-  * [Model-Deployment] (#Model-Deployment)
+  * [Feature Selection](#Feature-Selection)
+  * [Model Selection](#Model-Selection)
+  * [Model Deployment](#Model-Deployment)
   * [Future Scope](#Future-Scope)
  
 ## Overview
@@ -17,7 +17,7 @@
 
 Link: [https://flight-fare-prediction-api27.herokuapp.com/](https://flight-fare-prediction-api27.herokuapp.com/)
 
-![Front end](https://imgur.com/N5PReqb)
+![Front end](https://imgur.com/N5PReqb.png)
 
 ## Codes and Resources Used
 
