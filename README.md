@@ -1,6 +1,6 @@
 # Flight_Fare_Prediction
 
-## Table of Content
+## Table of Contents
   * [Overview](#overview)
   * [Codes and Resources Used](#Codes-and-Resources-Used)
   * [EDA](#EDA)
@@ -12,9 +12,9 @@
 ## Overview
 * Built a Flight_Fare_Prediction app that predicts the flight fare tickets that is useful for users while booking flight tickets.
 * Implemented Random forest regressor model to the data and hyper tuned using RandomSearchCV to produce the best result.
-* Also, built an API using Flask.
-* Deployed it on Heroku
-* Built Model on Amazon Sagemaker
+
+* Deployed it on Heroku using Flask.
+* Built Model on Amazon Sagemaker.
 
 Link: [https://flight-fare-prediction-api27.herokuapp.com/](https://flight-fare-prediction-api27.herokuapp.com/)
 
